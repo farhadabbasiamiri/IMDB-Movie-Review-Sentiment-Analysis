@@ -69,6 +69,8 @@ streamlit run main.py
 
 You’ll be able to enter a movie review in the text box and see the model’s sentiment prediction (positive/negative).
 
+[Check out the live Streamlit app here](https://imdb-movie-review-sentiment-analysis-bzrmbmbejoz37agbnjf2vy.streamlit.app/)
+
 ---
 
 ## 🧠 Model Architecture
